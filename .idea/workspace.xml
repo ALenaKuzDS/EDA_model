@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6dd8ba93-32b9-4819-b5ee-8a868ce12079" name="Changes" comment="Upd" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;assignee&quot;: &quot;ALenaKuzDS&quot;,
+      &quot;author&quot;: &quot;ALenaKuzDS&quot;
+    },
+    {
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;ALenaKuzDS&quot;
+    },
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;reviewState&quot;: &quot;AWAITING_REVIEW&quot;
+    },
+    {
+      &quot;state&quot;: &quot;MERGED&quot;,
+      &quot;reviewState&quot;: &quot;NO_REVIEW&quot;
+    }
+  ],
+  &quot;lastFilter&quot;: {
+  }
+}</component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="a073d13c-5138-42f1-b574-8d5f8489cf2a" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="ALenaKuzDS" />
+        <option name="repository" value="EDA" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a073d13c-5138-42f1-b574-8d5f8489cf2a" />
+        <option name="url" value="https://github.com/ALenaKuzDS/EDA" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2TPoEeLqJMCFHVpr3RmbhJnmTuz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;docker&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Optimus Prime/PycharmProjects/pythonProject/EDA/EDA + pipeline/env&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2176923&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;C:/Users/Optimus Prime/PycharmProjects/pythonProject/EDA/EDA + pipeline/model.ipynb&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\EDA + pipeline\app\data" />
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\EDA + pipeline" />
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\EDA" />
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\EDA + pipeline\app" />
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\EDA" />
+      <recent name="C:\Users\Optimus Prime\PycharmProjects\pythonProject\EDA\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.eda">
+    <configuration name="eda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="EDA + pipeline" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app/eda.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EDA" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app/Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Dockerfile">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="containerName" value="" />
+          <option name="sourceFilePath" value="app/Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Docker.app/Dockerfile" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.eda" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.app/Dockerfile" />
+        <item itemvalue="Python.eda" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Optimus Prime\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6dd8ba93-32b9-4819-b5ee-8a868ce12079" name="Changes" comment="" />
+      <created>1690953977943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690953977943</updated>
+      <workItem from="1690953984005" duration="11444000" />
+      <workItem from="1690990219293" duration="2463000" />
+      <workItem from="1690994964197" duration="2223000" />
+      <workItem from="1690997770433" duration="134000" />
+      <workItem from="1690998004352" duration="281000" />
+      <workItem from="1690998346597" duration="1329000" />
+      <workItem from="1691000159849" duration="351000" />
+      <workItem from="1691000554463" duration="3314000" />
+      <workItem from="1691003962883" duration="4866000" />
+      <workItem from="1691036169594" duration="406000" />
+      <workItem from="1691036675345" duration="536000" />
+      <workItem from="1691037377597" duration="9240000" />
+      <workItem from="1691053317109" duration="445000" />
+      <workItem from="1691053854022" duration="1899000" />
+      <workItem from="1691056397623" duration="1013000" />
+      <workItem from="1691057468241" duration="4986000" />
+      <workItem from="1691083566052" duration="15165000" />
+      <workItem from="1691129591814" duration="1597000" />
+      <workItem from="1691131579556" duration="2327000" />
+      <workItem from="1691134498299" duration="1513000" />
+      <workItem from="1691136502215" duration="125000" />
+      <workItem from="1691137911498" duration="1377000" />
+      <workItem from="1691141460223" duration="3321000" />
+      <workItem from="1691145222908" duration="1732000" />
+      <workItem from="1691147227227" duration="4750000" />
+      <workItem from="1691155517171" duration="10904000" />
+      <workItem from="1691213168409" duration="703000" />
+      <workItem from="1691214013318" duration="471000" />
+      <workItem from="1691214525922" duration="1513000" />
+      <workItem from="1691240118281" duration="1295000" />
+      <workItem from="1691241700127" duration="20598000" />
+      <workItem from="1691300375088" duration="202000" />
+      <workItem from="1691310855164" duration="17000" />
+      <workItem from="1691310892718" duration="636000" />
+      <workItem from="1691311610860" duration="2126000" />
+      <workItem from="1691315506976" duration="24591000" />
+      <workItem from="1691574219182" duration="2301000" />
+      <workItem from="1691578082249" duration="2999000" />
+      <workItem from="1691598099897" duration="1387000" />
+      <workItem from="1691599573853" duration="1536000" />
+      <workItem from="1691601175333" duration="794000" />
+      <workItem from="1691602037025" duration="5090000" />
+      <workItem from="1691634430362" duration="2043000" />
+      <workItem from="1691665575956" duration="438000" />
+      <workItem from="1691666059481" duration="1297000" />
+      <workItem from="1691690819934" duration="183000" />
+      <workItem from="1691787477886" duration="384000" />
+      <workItem from="1691942247997" duration="65000" />
+      <workItem from="1692420905875" duration="2740000" />
+      <workItem from="1692425094688" duration="28375000" />
+      <workItem from="1692552273106" duration="1853000" />
+      <workItem from="1692636778347" duration="867000" />
+      <workItem from="1692637655835" duration="11603000" />
+      <workItem from="1692725176889" duration="2776000" />
+      <workItem from="1692730693405" duration="962000" />
+      <workItem from="1692765447209" duration="417000" />
+      <workItem from="1692765936701" duration="1329000" />
+      <workItem from="1692767617534" duration="165000" />
+      <workItem from="1692767812740" duration="955000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add pipeline">
+      <option name="closed" value="true" />
+      <created>1691265402751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691265402751</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add pipeline">
+      <option name="closed" value="true" />
+      <created>1691268797202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691268797202</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add pipeline">
+      <option name="closed" value="true" />
+      <created>1691666573772</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691666573772</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upd metrics">
+      <option name="closed" value="true" />
+      <created>1692499979669</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692499979669</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upd metrics">
+      <option name="closed" value="true" />
+      <created>1692549271643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692549271644</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Upd metrics">
+      <option name="closed" value="true" />
+      <created>1692549430051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692549430051</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Upd metrics">
+      <option name="closed" value="true" />
+      <created>1692551357843</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692551357843</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Upd">
+      <option name="closed" value="true" />
+      <created>1692767014455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692767014455</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="pipeline" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="pipeline" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../.." />
+      <path value="$PROJECT_DIR$/venv" />
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/EDA" />
+      <path value="$PROJECT_DIR$/EDA/venv" />
+      <path value="$PROJECT_DIR$/EDA/env" />
+      <path value="$PROJECT_DIR$/../../.." />
+    </ignored-roots>
+    <MESSAGE value="Add pipeline" />
+    <MESSAGE value="Upd metrics" />
+    <MESSAGE value="Upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upd" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook://C:/Users/Optimus Prime/PycharmProjects/pythonProject/EDA/EDA/eda + model.ipynb</url>
+          <line>532</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app/dashboard.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/EDA$main.coverage" NAME="main Coverage Results" MODIFIED="1691214449327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EDA___pipeline$eda.coverage" NAME="eda Coverage Results" MODIFIED="1692729830282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/app" />
+  </component>
+</project>
