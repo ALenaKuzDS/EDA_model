@@ -11,9 +11,15 @@
 * Построения рапределений признаков
 * Изучение корреляций(Пирсона, Кэндала и Спирмена) 
 
-4. Обучение модели
+3. Обучение модели
 * Обучение только на числянных и числянных + категориальном признаках
 * Построение pipeline с TargetEncoder для кодирования категориального признака и StandardScaler для масштабирования числянных признаков
 * Подбор лучшей модели без подбора гиперпараметров из следующего перечня: KNeighborsRegressor(), LinearSVR, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, GradientBoostingRegressor, CatBoostRegressor, LGBMRegressor, XGBRegressor
 * По лучшей модели проведен подбор гипер-параметров
 * Важность признаков, метрики и проч. рассмотрены с поомщью библиотеки Shap и в построенном Explainer Dashboard 
+
+4. Деплой ExplainerDashboardпостроенный на этапе разработки модели
+
+* Экспортирт дашборд в yaml формат
+* Вынесение запуска ExplainerDashboard в app.py
+* Создание Dockerfile(https://hub.docker.com/repository/docker/alenakuzds/explainerdashboard/general)
