@@ -22,4 +22,3 @@
 * Экспорт дашборда в yaml формат
 * Вынесение запуска ExplainerDashboard в отдельный файл app.py
 * Создание Dockerfile(https://hub.docker.com/repository/docker/alenakuzds/explainerdashboard/general)
-(https://hub.docker.com/repository/docker/alenakuzds/explainerdashboard/general)
